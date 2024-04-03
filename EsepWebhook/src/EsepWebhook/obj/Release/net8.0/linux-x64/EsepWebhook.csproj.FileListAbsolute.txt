@@ -16,3 +16,4 @@ C:\Users\Grace\OneDrive\Documents\Ent SWE Engineering\Event Driven Architecture 
 C:\Users\Grace\OneDrive\Documents\Ent SWE Engineering\Event Driven Architecture assignment\esep-webhooks-redo\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\Grace\OneDrive\Documents\Ent SWE Engineering\Event Driven Architecture assignment\esep-webhooks-redo\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\Grace\OneDrive\Documents\Ent SWE Engineering\Event Driven Architecture assignment\esep-webhooks-redo\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\Grace\OneDrive\Documents\Ent SWE Engineering\Event Driven Architecture assignment\esep-webhooks-redo\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
